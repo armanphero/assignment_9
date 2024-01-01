@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-container {
+    @apply max-w-[100%] md:max-w-[700px] lg:max-w-[950px] xl:max-w-[1150px] 2xl:max-w-[1360px] mx-auto px-2 sm:px-5
+}
+
+.activeStyle {
+    @apply bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent
+}
+
+.btn-style {
+    @apply bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-semibold px-4 py-3 hover:from-purple-500 hover:to-pink-500 rounded-md
+}
+
+.job-btn-style {
+    @apply bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-semibold px-2 py-1 hover:from-purple-500 hover:to-pink-500 rounded-sm
+}
+
+.header2-style {
+    background-image: url('./assets/bg1.png');
+    background-image: url('./assets/bg2.png'), url('./assets/bg1.png');
+    background-position: right top, left bottom;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100px;
+}
+
+@media (min-width: 768px) {
+    .header2-style {
+        background-size: 300px;
+    }
+}

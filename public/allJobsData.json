@@ -1,0 +1,182 @@
+[
+    {
+        "id": "s1abcdef",
+        "companyLogo": "https://i.ibb.co/VxCYzgc/google.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Google",
+        "remoteOrOnsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000 (Per Month)",
+        "jobDescription": "Join our dynamic team of software engineers. Work on cutting-edge projects and contribute to the development of innovative software solutions. Collaborate with cross-functional teams to design and implement high-quality code.",
+        "jobResponsibility": "Develop and maintain software applications. Collaborate with product managers and designers to understand customer requirements. Write clean, efficient, and maintainable code. Perform code reviews and troubleshoot issues. Stay updated with industry trends and technologies.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software development",
+        "contactInformation": {
+            "phone": "123-456-7890",
+            "email": "contact@google.com"
+        }
+    },
+    {
+        "id": "n2xyz123",
+        "companyLogo": "https://i.ibb.co/PcS5c2M/microsoft.png",
+        "jobTitle": "Data Scientist",
+        "companyName": "Microsoft",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, USA",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "$90,000 - $120,000 (Per Month)",
+        "jobDescription": "Exciting opportunity for a data scientist to join our team. Analyze and interpret complex data sets. Develop machine learning models and algorithms. Collaborate with data engineers to ensure data quality and availability.",
+        "jobResponsibility": "Conduct exploratory data analysis. Identify trends and patterns in data. Design and implement statistical models. Communicate findings to non-technical stakeholders. Stay current with advancements in data science and machine learning.",
+        "educationalRequirements": "Master's degree in Data Science or related field",
+        "experiences": "3+ years of experience in data analysis",
+        "contactInformation": {
+            "phone": "987-654-3210",
+            "email": "info@microsoft.com"
+        }
+    },
+    {
+        "id": "s3ghijkl",
+        "companyLogo": "https://i.ibb.co/LQH0TS3/apple.png",
+        "jobTitle": "Marketing Specialist",
+        "companyName": "Apple",
+        "remoteOrOnsite": "Remote",
+        "location": "Toronto, Canada",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$60,000 - $80,000 (Per Month)",
+        "jobDescription": "Join our marketing team to drive brand awareness. Plan and execute marketing campaigns to promote our products globally. Collaborate with creative teams to develop compelling content and visuals.",
+        "jobResponsibility": "Develop marketing strategies and tactics. Monitor and analyze the performance of campaigns. Coordinate with external agencies and partners. Stay informed about market trends and competitors. Provide insights to optimize marketing efforts.",
+        "educationalRequirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "2+ years of experience in marketing",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "hr@apple.com"
+        }
+    },
+    {
+        "id": "n4pqrs56",
+        "companyLogo": "https://i.ibb.co/tYmX0cz/tesla.png",
+        "jobTitle": "AI Researcher",
+        "companyName": "Tesla",
+        "remoteOrOnsite": "Remote",
+        "location": "Helsinki, Finland",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$120,000 - $150,000 (Per Month)",
+        "jobDescription": "Contribute to cutting-edge AI research at Tesla. Work on projects that push the boundaries of artificial intelligence. Collaborate with a diverse team of researchers and engineers.",
+        "jobResponsibility": "Develop and implement advanced AI algorithms. Conduct experiments and analyze results. Stay abreast of the latest research in AI and machine learning. Publish research findings in reputable conferences and journals.",
+        "educationalRequirements": "Ph.D. in Computer Science or related field",
+        "experiences": "5+ years of experience in AI research",
+        "contactInformation": {
+            "phone": "111-222-3333",
+            "email": "careers@tesla.com"
+        }
+    },
+    {
+        "id": "s5uvwxy7",
+        "companyLogo": "https://i.ibb.co/QnsbPGJ/amazon.png",
+        "jobTitle": "UX/UI Designer",
+        "companyName": "Amazon",
+        "remoteOrOnsite": "Remote",
+        "location": "London, UK",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$85,000 - $110,000 (Per Month)",
+        "jobDescription": "Shape the user experience for Amazon's products. Design intuitive and visually appealing user interfaces. Collaborate with product managers and developers to bring designs to life.",
+        "jobResponsibility": "Create wireframes and prototypes. Conduct user research and usability testing. Iterate designs based on feedback. Stay current with design trends and best practices. Advocate for a user-centered design approach.",
+        "educationalRequirements": "Bachelor's degree in Design or related field",
+        "experiences": "3+ years of experience in UX/UI design",
+        "contactInformation": {
+            "phone": "444-555-6666",
+            "email": "design@amazon.com"
+        }
+    },
+    {
+        "id": "ghij9012",
+        "companyLogo": "https://i.ibb.co/dDZxQnF/netflix.png",
+        "jobTitle": "Cybersecurity Analyst",
+        "companyName": "Netflix",
+        "remoteOrOnsite": "Remote",
+        "location": "Toronto, Canada",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$110,000 - $140,000 (Per Month)",
+        "jobDescription": "Join the cybersecurity team at Netflix. Monitor and analyze security incidents. Implement and maintain security measures to protect the organization's information systems. Stay informed about the latest cybersecurity threats and technologies.",
+        "jobResponsibility": "Conduct security assessments and vulnerability assessments. Respond to and investigate security incidents. Develop and implement security policies and procedures. Collaborate with IT teams to ensure a secure IT environment.",
+        "educationalRequirements": "Bachelor's degree in Cybersecurity or related field",
+        "experiences": "4+ years of experience in cybersecurity",
+        "contactInformation": {
+            "phone": "876-543-2109",
+            "email": "cybersecurity@netflix.com"
+        }
+    },
+    {
+        "id": "s10efghi",
+        "companyLogo": "https://i.ibb.co/4PrFm4G/facebook.png",
+        "jobTitle": "Frontend Developer",
+        "companyName": "Facebook",
+        "remoteOrOnsite": "Remote",
+        "location": "Bangalore, India",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$90,000 - $110,000 (Per Month)",
+        "jobDescription": "Work on Facebook's user-facing web applications. Collaborate with cross-functional teams to deliver high-quality frontend solutions. Stay updated with the latest web technologies.",
+        "jobResponsibility": "Implement responsive and interactive user interfaces. Optimize web applications for performance. Troubleshoot and debug issues. Collaborate with designers to implement visual elements.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "3+ years of experience in frontend development",
+        "contactInformation": {
+            "phone": "123-987-6543",
+            "email": "dev@facebook.com"
+        }
+    },
+    {
+        "id": "n9ijklmn",
+        "companyLogo": "https://i.ibb.co/PcS5c2M/microsoft.png",
+        "jobTitle": "Cloud Solutions Architect",
+        "companyName": "Microsoft",
+        "remoteOrOnsite": "Onsite",
+        "location": "Vancouver, Canada",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$110,000 - $130,000 (Per Month)",
+        "jobDescription": "Architect scalable and secure cloud solutions at Microsoft. Collaborate with engineering teams to design and implement cloud architectures. Stay abreast of cloud computing trends and best practices.",
+        "jobResponsibility": "Lead the development of cloud infrastructure. Provide technical guidance to teams. Evaluate and implement new cloud technologies. Ensure security and compliance in cloud environments.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "5+ years of experience in cloud architecture",
+        "contactInformation": {
+            "phone": "111-222-3333",
+            "email": "cloud@ms.com"
+        }
+    },
+    {
+        "id": "s11opqrs",
+        "companyLogo": "https://i.ibb.co/LQH0TS3/apple.png",
+        "jobTitle": "Mobile App Developer",
+        "companyName": "Apple",
+        "remoteOrOnsite": "Remote",
+        "location": "Manchester, UK",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$95,000 - $120,000 (Per Month)",
+        "jobDescription": "Contribute to the development of innovative mobile apps at Apple. Work on projects that shape the future of mobile technology. Collaborate with a talented team of developers and designers.",
+        "jobResponsibility": "Design and implement features for iOS and Android applications. Collaborate with cross-functional teams to deliver high-quality mobile applications. Troubleshoot and debug issues. Stay updated with mobile development trends.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "4+ years of experience in mobile app development",
+        "contactInformation": {
+            "phone": "555-987-6543",
+            "email": "mobile@apple.com"
+        }
+    },
+    {
+        "id": "n12tuvwx",
+        "companyLogo": "https://i.ibb.co/VxCYzgc/google.png",
+        "jobTitle": "AI/ML Engineer",
+        "companyName": "Google",
+        "remoteOrOnsite": "Remote",
+        "location": "Helsinki, Finland",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$100,000 - $130,000 (Per Month)",
+        "jobDescription": "Join the AI/ML team at Google to work on cutting-edge projects. Contribute to the development of advanced machine learning algorithms. Collaborate with researchers and engineers to push the boundaries of AI.",
+        "jobResponsibility": "Develop and implement machine learning algorithms. Analyze large datasets to extract meaningful insights. Collaborate with cross-functional teams to integrate machine learning models into products.",
+        "educationalRequirements": "Master's degree in Computer Science or related field",
+        "experiences": "5+ years of experience in AI/ML",
+        "contactInformation": {
+            "phone": "123-456-7890",
+            "email": "ml@google.com"
+        }
+    }
+]

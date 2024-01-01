@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "jobCategory": "Software Development",
+        "availableJobs": "243 Jobs Available",
+        "img": "jobCategoryImg/software.png"
+    },
+    {
+        "id": 2,
+        "jobCategory": "Data Science",
+        "availableJobs": "376 Jobs Available",
+        "img": "jobCategoryImg/dateScience.png"
+    },
+    {
+        "id": 3,
+        "jobCategory": "Marketing",
+        "availableJobs": "128 Jobs Available",
+        "img": "jobCategoryImg/marketing.png"
+    },
+    {
+        "id": 4,
+        "jobCategory": "Information Technology",
+        "availableJobs": "215 Jobs Available",
+        "img": "jobCategoryImg/it.png"
+    }
+]
